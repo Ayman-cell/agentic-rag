@@ -3,6 +3,9 @@
 **Un système Agentic RAG qui combine recherche dans vos documents (PDF) + fallback web, orchestré par des agents CrewAI, avec support LLM local (Ollama) ou API.**
 
 <div align="center">
+
+## 🌐 **[VOIR LA DÉMO (YouTube)](https://youtu.be/O4yBW_GTRk0)** 🌐
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
 [![CrewAI](https://img.shields.io/badge/CrewAI-Agents-black?style=for-the-badge)](https://docs.crewai.com/)
